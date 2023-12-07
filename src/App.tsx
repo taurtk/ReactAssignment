@@ -1,5 +1,5 @@
 // App.tsx
-import React from 'react';
+// import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import FirstPage from './pages/FirstPage/FirstPage';
 import SecondPage from './pages/SecondPage/SecondPage';
